@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm miyataku 🤓
+
+🌱 I’m currently learning ...
+
+- Web programming
+
 <!--
 **takumiyataku/takumiyataku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
